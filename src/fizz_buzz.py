@@ -1,3 +1,2 @@
-def fizz_buzz(param):
-  #Type your code here
-  return
+def fizz_buzz(name):
+  return "name"
