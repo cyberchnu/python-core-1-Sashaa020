@@ -1,10 +1,11 @@
-def both(number1, number2):
+def both(number1,number2):
   if number1>=0 and number2>=0 :
-      return True
+      return "True"
   elif number1<=0 and number2<=0 :
-      return False
+      return "False"
   else:
-      return False
+      return "False"
+
   #test
   #print (both(1,0))
 
