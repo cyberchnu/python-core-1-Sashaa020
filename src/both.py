@@ -5,8 +5,5 @@ def both(number1, number2):
       return "False"
   else:
       return "False"
-  print(number1, number2)
 
-  #test
-  #print (both(1,0))
 
