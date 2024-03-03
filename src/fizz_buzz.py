@@ -7,4 +7,4 @@ def fizz_buzz(number):
         return "Buzz"
     else:
         return str(number)
- print(fizz_buzz)
+print(fizz_buzz)
